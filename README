@@ -1,0 +1,17 @@
+What the project does
+  This project allows users to utilize android studio by running a android emulator, automatically opening a empty layout view with a prompt to enter
+  their name.  After user has entered their name and has clicked the enter button displayed in the layout under their name.  The "Hello World" prompt near the top margin
+  of the layout changes to the text that they entered in the prompt.
+Why the project is useful
+  Allows users to understand the concept of user input and connecting different controls such as a textview control, button, and entry text prompt all working together to
+  achieve the end result of displaying text entered by the user.
+How users can get started with the project
+  Open the "MainActivity.kt" file located within the "app" folder under "kotlin+java" --> "edu.temple.HelloWorld" in Android Studio project view panel.  There users can see
+  what is occuring during the run process of the program.
+
+  Also Reccomend opening the "activity_main.xml" file located under the "res" folder under "layout" in the project view panel.  Users can see a visual representation of the
+  design being ran on the emulator including specifications and codes of each control and their attributes such as button, textview, etc.
+Where users can get help with your project
+  They can contact Professor Karl Morris during his office hours.
+Who maintains and contributes to the project
+  This project is contributed by me Zain Akhtar and is maintained by my professor, Professor Karl Morris.
